@@ -33,8 +33,9 @@ It contains labeled MRI images:
 
 ## How to Run
 
-### 1. In Google Colab
-- Open the notebook: [`brain_tumor_cnn.ipynb`](notebooks/brain_tumor_cnn.ipynb)
+**The notebook is still in training. A notebook that is appropriate for end users will be published once the model has been fine-tuned.**
+TO RUN THE TRAINING NOTEBOOK:
+- Open the notebook
 - Enable GPU via *Runtime → Change runtime type → GPU*
 - Upload your `kaggle.json` file
 - Run all cells
