@@ -41,4 +41,12 @@ Each convolutional block follows the pattern:
 - Run all cells
 
 
+# Results
+Note: This project is still a work in progress.
+- Training Accuracy: 96.28%
+- Best Validation Accuracy: 91.59%
+
+- Best Training Loss: 0.4125
+- Best Validation Loss: 0.5369
+
 
