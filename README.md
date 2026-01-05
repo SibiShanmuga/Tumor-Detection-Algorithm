@@ -42,7 +42,7 @@ Each convolutional block follows the pattern:
 
 
 # Results
-Note: This project is still a work in progress.
+*Note: This project is still a work in progress.*
 - Training Accuracy: 96.28%
 - Best Validation Accuracy: 91.59%
 
