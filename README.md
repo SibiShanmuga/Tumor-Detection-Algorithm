@@ -6,7 +6,9 @@ This is ML Algorithm to detect Malignant or Benign Tumors
 This project uses a **Convolutional Neural Network (CNN)** to classify MRI brain scans
 as **benign** or **malignant**. It was developed as part of my Machine Learning class at Virginia Tech but since been transformed and improved upon for my own satisfaction.
 
+
 **THIS PROJECT IS A CONTINUOUS WORK IN PROGRESS - Check back for updates!**
+
 
 ---
 
@@ -25,7 +27,7 @@ The dataset is from Kaggle:
 
 ## Model Architecture
 The model is a deep CNN consisting of 4 convolutional blocks followed by fully connected layers, designed for 4 way classification of MRI images.
-In total, the network contains over 30 layers, including convolutional layers, batch normalization, pooling, dropout, and dense layers.
+In total, the network contains 25 layers, including convolutional layers, batch normalization, pooling, dropout, and dense layers.
 
 Each convolutional block follows the pattern:
 
