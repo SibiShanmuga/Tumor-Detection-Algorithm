@@ -60,14 +60,15 @@ The head block follows the pattern:
 
 # Results
 *Note: This project is still a work in progress.*
-- Best Training Accuracy: 99.67%
-- Best Validation Accuracy: 92.46%
+- Best Training Accuracy: 99.54%
+- Best Validation Accuracy: 93.34%
 
-- Best Training Loss: 0.3192
-- Best Validation Loss: 0.5062
+- Best Training Loss: 0.1869
+- Best Validation Loss: 0.3596
+ 
 
-- Testing Accuracy: 93.75%
-- Testing Loss: 0.4490
+- Testing Accuracy: 95.65%
+- Testing Loss: 0.3110
 
 
 
